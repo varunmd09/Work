@@ -6,7 +6,7 @@ A simple Java console project containing 4 problem-solving programs using basic 
 
 1. **Problem1** – Basic calculator (Add, Subtract, Multiply, Divide)
 2. **Problem2** ,  **Problem3** ,  **Problem4** – (With a single integer as the input, generate the following until a = x )
-3.
+
 
 
 ## 🚀 How to Run
